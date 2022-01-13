@@ -21,7 +21,6 @@ namespace Wpf_net.framework_animation
     /// </summary>
     public partial class MainWindow : Window
     {
-        private Storyboard storyboard = new Storyboard();
         public MainWindow()
         {
             InitializeComponent();
